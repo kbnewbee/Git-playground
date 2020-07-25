@@ -3,5 +3,7 @@ testing git commands
 CHANGES MADE TO THE READ ME FILE
 master branch changes
 
-bug fixed
+bug fixedd
 
+this is the line from my new feature branch
+yrt many other changes
