@@ -1,0 +1,2 @@
+This is my test vi file
+this is my new test line 
